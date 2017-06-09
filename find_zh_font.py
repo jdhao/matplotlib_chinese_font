@@ -25,6 +25,7 @@ def save_zh_font():
         json.dump(list(zip(fpths, fnames)), f)
 
     zh_font_name = set(fnames)
+
     mpl_font = set([f.name for f in mfm.fontManager.ttflist])
 
     valid_zh_font = list(mpl_font.intersection(zh_font_name))
