@@ -4,7 +4,7 @@ in the Internet. It is created as a demo on how to use Chinese fonts properly wi
 For detailed information, please refer to [this post](https://jdhao.github.io/2017/05/13/guide-on-how-to-use-chinese-with-matplotlib/).
 
 ### How to run the code
-Run `python print_chinese.py --method m1` in command line to see the output, output is like the following.
+Run `python main.py --method m1` in command line to see the output, output is like the following.
 ![](sample_output.jpg)
  
 you can try different methods. Valid method names are 'm1','m2' and 'm3'.
