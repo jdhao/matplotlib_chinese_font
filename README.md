@@ -1,6 +1,6 @@
 ### Repo introduction
 I stumbled across the issue of Matplotlib displaying boxes for Chinese a while ago. This repo originated from my frustration with the various post scattering
-in the Internet. It is created as a demo on how to use Chinese fonts properly with Matplotlib. Several ways are shown in the script. The scripts are tested both on Linux and Windows and should be able to run smoothly.
+in the Internet. It is created as a demo on how to use Chinese fonts properly with Matplotlib. Several ways are shown in the script. The scripts are tested both on Linux(CentOS 7.2) and Windows(Windows 8.1 Enterprise Edition) and should be able to run smoothly.
 For detailed information, please refer to [this post](https://jdhao.github.io/2017/05/13/guide-on-how-to-use-chinese-with-matplotlib/).
 
 ### How to run the code
