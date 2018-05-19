@@ -1,6 +1,6 @@
 import matplotlib.font_manager as mfm
 import subprocess
-import simplejson as json
+import json
 import shlex
 
 
